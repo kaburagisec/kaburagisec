@@ -1,16 +1,21 @@
-## Hi there 👋
+## GitHub `README` ? 
 
-<!--
-**kaburagisec/kaburagisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Lang Stacks
+`PHP` / `Python` / `JavaScript` / `C#` / `Java` / `C/C++` / *..and what has been forgotten*
 
-Here are some ideas to get you started:
+#### Tech Stacks
+[`laravel`](https://github.com/laravel/laravel) / [`livewire`](https://github.com/livewire/livewire) / [`react`](https://github.com/facebook/react) / [`fastapi`](https://github.com/fastapi/fastapi) / [`.NET`](https://dot.net/) / *..mostly native*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### DB Stacks
+[`mysql`](https://www.mysql.com/) / [`sqlite`](https://sqlite.org/) / [`mongodb`](https://www.mongodb.com/) / [`milvus`](https://github.com/milvus-io/milvus) / [`elasticsearch`](https://github.com/elastic/elasticsearch) / *..mostly based on projects*
+
+#### DevOps
+[`docker`](https://www.docker.com/) / [`kubernetes`](https://kubernetes.io/) / [`langfuse`](https://github.com/langfuse/langfuse) / [`sentry`](https://github.com/getsentry/sentry) / *..same as above*
+
+#### Beyond that?
+[`reverse engineering`](https://en.wikipedia.org/wiki/Reverse_engineering) / [`mole hunting`](https://www.google.com/search?q=mole+hunting) / [`pentesting`](https://en.wikipedia.org/wiki/Penetration_test)
+
+#### Note:
+- GitHub told me to make this, so I made it. Rarely use github for projects.
+- No need for sponsors, I'm rich seriously. Just star the repos that are useful.
+- 👈 This image was created by AI, I forgot the name of the AI.
