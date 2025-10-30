@@ -1,5 +1,3 @@
-## GitHub `README` ? 
-
 **Lang Stacks**<br>
 `PHP` / `Python` / `JavaScript` / `C#` / `Java` / `C/C++` / *..and what has been forgotten*
 
