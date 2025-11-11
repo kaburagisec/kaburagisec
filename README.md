@@ -15,5 +15,4 @@
 
 **Note**:
 - GitHub told me to make this, so I made it. Rarely use github for projects.
-- No need for sponsors, I'm rich seriously. Just star the repos that are useful.
 - 👈 This image was created by AI, I forgot the name of the AI.
